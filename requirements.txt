@@ -1,6 +1,6 @@
 Pillow>=2.0.0
 coverage
-html5lib>=1.0
+html5lib>=0.999999999
 pyPdf2==1.26
 reportlab>=3.0
 six
